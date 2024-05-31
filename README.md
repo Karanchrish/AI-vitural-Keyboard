@@ -14,7 +14,7 @@ This project demonstrates how to create a virtual keyboard using hand gestures c
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/opencv-hand-gesture-keyboard.git
+   git clone https://github.com/Karanchrish/AI-vitural-Keyboard.git
    ```
 2. Adjust the webcam if necessary to ensure your hand is properly detected.
 
